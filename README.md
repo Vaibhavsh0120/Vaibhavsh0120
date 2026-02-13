@@ -3,8 +3,8 @@
 <div align="center">
   <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hi">, I'm Vaibhav Sharma</h1>
   
-  <h3>
-    <a href="https://git.io/typing-svg">
+   <h3>
+    <a href="https://git.io/typing-svg" target="_blank">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91E5&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Contributor;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
     </a>
   </h3>
@@ -18,7 +18,7 @@
  <a href="https://vaibhavsh0120.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="52" height="40" alt="portfolio logo" />
   </a>
-  <a href="mailto:vaibhavsh0120@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vaibhavsh0120@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
   <a href="https://linkedin.com/in/vaibhavsh0120" target="_blank">
@@ -76,7 +76,7 @@
   <h3>📊 Github Stats</h3>
   
   <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavsh0120&layout=compact&theme=tokyonight"/>
     </a>
   </p>
@@ -87,9 +87,9 @@
 
   <h3>🤝 Connect With Me</h3>
   <p align="center">
-    <a href="https://www.leetcode.com/vaibhavsh0120" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-    <a href="https://www.hackerrank.com/vaibhavsh0120" target="blank"><img align="center" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
-    <a href="https://kaggle.com/vaibhavsh0120" target="blank"><img align="center" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
+    <a href="https://www.leetcode.com/vaibhavsh0120" target="_blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://www.hackerrank.com/vaibhavsh0120" target="_blank"><img align="center" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
+    <a href="https://kaggle.com/vaibhavsh0120" target="_blank"><img align="center" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
   </p>
 
 

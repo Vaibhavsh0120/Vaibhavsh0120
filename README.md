@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-<h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Vaibhav Sharma</h1>
 <h3 align="center">I'm passionate about coding in C, C++, Python, HTML, CSS, DSA and more. Actively engaged in numerous projects, exploring the depths of software development and seeking innovative solutions. Eager to collaborate and contribute to exciting ventures. Let's join forces to build, innovate, and make a difference in the world of technology together!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">

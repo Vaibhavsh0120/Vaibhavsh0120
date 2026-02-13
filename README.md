@@ -76,12 +76,6 @@
   <h3>📊 Github Stats</h3>
   
   <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavsh0120&layout=compact&theme=tokyonight"/>
-    </a>
-  </p>
-  
-  <p>
     <img src="https://streak-stats.demolab.com?user=Vaibhavsh0120&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
   </p>
 

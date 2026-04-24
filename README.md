@@ -15,7 +15,8 @@
     Eager to collaborate and contribute to exciting ventures. Let's join forces to build, innovate, and make a difference!
   </p>
 
- <a href="https://vaibhavsh0120.vercel.app/">
+<p align="center">
+  <a href="https://vaibhavsh0120.vercel.app/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="52" height="40" alt="portfolio logo" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vaibhavsh0120@gmail.com">
@@ -24,6 +25,7 @@
   <a href="https://linkedin.com/in/vaibhavsh0120">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
+</p>
 
   <h3>🚀 Tech Stack</h3>
 
